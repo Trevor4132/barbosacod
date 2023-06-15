@@ -10,9 +10,11 @@ body
 {
     background-color: rgb(3, 3, 3);
     color: rgb(255, 255, 255);
-    font-size: xx-large;
-    font-family: monospace;
-    background-size: cover;
-    text-align: center;
+    
+}
+body {
+    margin: 0;
+    padding: 0;
+    height: 100px;
 }
 
